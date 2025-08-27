@@ -8,8 +8,8 @@ body {
 }
 
 header {
-    background-color: #111;
-    color: #ED9DC5;
+    background-color: #ED9DC5;
+    color: #fff;
     padding: 40px;
     text-align: center;
 }
@@ -31,6 +31,6 @@ section {
 footer {
     text-align: center;
     padding: 40px;
-    background-color: #222;
-    color: #ED9DC5;
+    background-color: #ED9DC5;
+    color: #fff;
 }
